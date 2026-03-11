@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U4YsC80qJRI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\3rd year\\Application Development Workshop\\CollegeManagementSystem\\CollegeManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.12\\microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
